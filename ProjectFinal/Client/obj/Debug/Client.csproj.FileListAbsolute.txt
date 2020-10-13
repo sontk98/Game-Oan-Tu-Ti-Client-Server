@@ -1,0 +1,20 @@
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.exe.config
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.pdb
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.Properties.Resources.resources
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.pdb
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.Form1.resources
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.exe.config
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.exe
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.pdb
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.Form1.resources
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.Properties.Resources.resources
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.exe
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.pdb

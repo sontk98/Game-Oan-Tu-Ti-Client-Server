@@ -1,0 +1,14 @@
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.exe.config
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.pdb
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.pdb
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.exe.config
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.exe
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.pdb
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.exe
+F:\My Document Study\HK I 2019-2020\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.pdb
